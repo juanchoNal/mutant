@@ -2,7 +2,7 @@ Este es el resultado de la prueba para saber si de acuerdo de una matriz que con
 ANOTACIONES GENERALES:
 Como el ejercicio decía que la matriz eran N*N, asumí que solo aplican para matrices cuadradas
 El algoritmo lo organice en 4 pasos, recorrer las filas inicialmente; después paso las columnas a filas y las reccoro; después recorro las diagonales de izquierda a derecha y por último hago un espejo de la matriz para volver a recorrer la matriz de la diagonales inversas.
-Para no recorrer toda la matriz sin necesidad estoy mirando que las posiciones que faltan por comparar no sean menor a 4, o si ya encontré 2 secuencias de la que me dice que es mutante en ese instante para y guardo el resyltado como mutante.
+Para no recorrer toda la matriz sin necesidad estoy mirando que las posiciones que faltan por comparar no sean menor a 4, o si ya encontré 2 secuencias de la que me dice que es mutante en ese instante para y guardo el resultado como mutante.
 
 
 Para la ejecución: 
